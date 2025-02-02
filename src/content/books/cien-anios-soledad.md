@@ -21,13 +21,3 @@ Una edición conmemorativa de una novela clave en la historia de la literatura, 
 “Muchos años después, frente al pelotón de fusilamiento, el coronel Aureliano Buendía había de recordar aquella tarde remota en que su padre lo llevó a conocer el hielo”.
 
 Con estas palabras empieza una novela ya legendaria en los anales de la literatura universal, una de las aventuras literarias más fascinantes del siglo xx. Millones de ejemplares de Cien años de soledad leídos en todas las lenguas y el Premio Nobel de Literatura coronando una obra que se había abierto paso a “boca a boca” —como gusta decir el escritor— son la más palpable demostración de que la aventura fabulosa de la familia Buendía-Iguarán, con sus milagros, fantasías, obsesiones, tragedias, incestos, adulterios, rebeldías, descubrimientos y condenas, representaba al mismo tiempo el mito y la historia, la tragedia y el amor del mundo entero.
-
-ENGLISH DESCRIPTION
-
-Now streaming on Netflix
-
-Commemorating the 50th anniversary since One Hundred Years of Solitude’s first publication, this edition includes unpublished illustrations by the Chilean artist Luisa Rivera and a typeface created by the author's son, Gonzalo García Barcha.
-
-A commemorative edition of a fundamental novel in the history of literature, a work that we should all have on our bookshelves.
-
-This novel, now legendary in world literature records, is one of the most fascinating literary adventures of the twentieth century. Millions of copies of One Hundred Years of Solitude have been read in all languages and the Nobel Prize in Literature crowning a work that had made its way through word of mouth, are the most palpable demonstration that the fabulous adventure of the Buendía-Iguarán family, with its miracles, fantasies, obsessions, tragedies, incests, adulteries, rebellions, discoveries, and convictions, represented at the same time the myth and the history, as well as the tragedy and the love of the entire world.

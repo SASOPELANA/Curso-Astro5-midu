@@ -1,5 +1,5 @@
 ---
-title: Programador Práctico
+title: Programador Pragmático
 author: David Thomas
 img: "/img/programador-pracmatico.jpg"
 readtime: 360
