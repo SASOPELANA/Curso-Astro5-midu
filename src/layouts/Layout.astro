@@ -1,6 +1,9 @@
 ---
 import "../styles/global.css";
 
+// Importamos el componente para animaciones al pasar de una página a otra
+import { ClientRouter } from "astro:transitions";
+
 // Interface para titulos
 interface Props {
   title?: string;
@@ -15,8 +18,8 @@ const { title } = Astro.props;
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <meta name="generator" content={Astro.generator} />
     <title>{title}</title>
+    <ClientRouter />
   </head>
   <body class="grid place-content-center p-20">
     <div class="container">
