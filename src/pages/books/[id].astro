@@ -40,7 +40,7 @@ export const prerender = true;
 
       <!-- Enlaces de compra -->
       <!-- Unico componente dinamico y no es estatica -->
-      <BookScore server:defer id={slug}>
+      <BookScore server:defer>
         <span slot="fallback" class="text-xs opacity-70">
           Cargando puntuación...
         </span>
