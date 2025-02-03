@@ -10,4 +10,22 @@ buy:
   usa: https://www.amazon.com/-/es/dp/B0DGRL43TQ?crid=3G814OS005DSR&dib=eyJ2IjoiMSJ9.yp1GFTvAoxXKjWO_t2pCOFCc3zP6xGBIPkiK5ldCRqtMxxUbQDUibGiyjw8cXQOY.rr5XJotQOPiGBCYz6Dx5DQPwGs1HB30aE3qoiasnCDY&dib_tag=se&keywords=la+f%C3%ADsica+cu%C3%A1ntica+en+ingles&qid=1738468665&sprefix=fisica+cuantica+espa%C3%B1ol%2Caps%2C270&sr=8-1
 ---
 
-«Aquellos que no se sorprenden cuando se encuentran por primera vez con la teoría cuántica posiblemente no la hayan entendido». Niels Bohr, Premio Nobel de Física 1922 La visión newtoniana y la física clásica se cimentaban en un cosmos sin fin y estático, siguiendo una trayectoria lineal y mecánica según las leyes físicas, que se creían absolutamente certeras y armónicas. Sin embargo, esta perspectiva del universo se desmoronó a principios del siglo XX debido a las investigaciones de científicos como Max Planck, Louis De Broglie o Erwin Schrödinger y sus descubrimientos. A través de un recorrido por la historia de esta reciente ciencia, hasta su impacto revolucionario en la tecnología moderna, el libro ofrece una introducción accesible y cautivadora a esta rama fundamental de la ciencia. Desde el átomo cuántico hasta el enigmático experimento del gato de Schrödinger o el principio de incertidumbre, se presentan conceptos clave de manera clara y concisa. "Introducción a la física cuántica" no solo aborda los fundamentos teóricos, sino que también explora aplicaciones prácticas que han transformado nuestra sociedad como la criptografía cuántica, que promete una seguridad incomparable en las comunicaciones, hasta la superconductividad y la revolución láser que han revolucionado la tecnología moderna. Una lectura imprescindible para aquellos que buscan comprender los misterios y aplicaciones emocionantes de una de las teorías más sorprendentes y poderosas de la ciencia moderna.
+## Descripción general
+
+**Física Cuántica** es un libro de divulgación científica escrito por Eugenio Manuel Fernández, que explora los fundamentos y conceptos clave de la física cuántica de manera accesible y didáctica. Dirigido a un público amplio, el libro combina rigor científico con un lenguaje claro, evitando en lo posible el uso de matemáticas avanzadas.
+
+## Contenido destacado
+
+- **Introducción histórica**: Contextualiza el surgimiento de la física cuántica a principios del siglo XX.
+- **Conceptos fundamentales**: Explica la dualidad onda-partícula, el principio de incertidumbre de Heisenberg, la función de onda y la interpretación probabilística.
+- **Fenómenos cuánticos**: Describe el entrelazamiento cuántico, la superposición de estados y el efecto túnel.
+- **Aplicaciones modernas**: Analiza el impacto de la física cuántica en tecnologías como la computación cuántica y la criptografía.
+- **Enfoque divulgativo**: Utiliza ejemplos cotidianos y evita tecnicismos para hacer comprensible una teoría compleja.
+- **Ilustraciones y diagramas**: Incluye gráficos y esquemas para facilitar la comprensión visual.
+
+## Público objetivo
+
+- Estudiantes de ciencias que buscan una introducción amigable a la física cuántica.
+- Personas curiosas interesadas en entender los fundamentos del mundo cuántico sin necesidad de conocimientos avanzados.
+
+

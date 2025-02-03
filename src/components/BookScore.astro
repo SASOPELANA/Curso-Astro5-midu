@@ -1,10 +1,14 @@
 ---
 import { SCORE_API_ENDPOINT } from "astro:env/server";
 
+// Marcamos esta página como no pre-renderizada
+
+
 const res = await fetch(SCORE_API_ENDPOINT);
 const scoreValue = await res.text();
 ---
 
-<span class="text-xs" id="score transition:persist">
+<span class="text-xs" id="score">
   ⭐ Puntuación: {scoreValue.trim()}/5
 </span>
+

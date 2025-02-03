@@ -10,13 +10,13 @@ buy:
   usa: https://www.amazon.com/-/es/Hundred-Solitude-Harper-Perennial-Classics/dp/0060883286?crid=H9KKQRS1VCTL&dib=eyJ2IjoiMSJ9.g2hyWyIYGWXWOLUjXbgKu2vf2O3BsBjfvNt-hC-rjiQvrmT4UC_KacsY62dJ80Tp451JrClltUbeRAjCOY56xAnU3QJbO41bN_auJZWYeyDhPi4aOAgq0l8UhiDzmGZQq8YIdwVkND4BWFzJqPTh4aStIoiI2KncxjVWRbItGUl3BdvUjQUJELoIadFmHmzc0lOJhUu13fObHekA-atSBpEYBPuXD86cgygkcfB0DME.KiagxdgQkVrIEYjud4RniNpxLGThOt7jmUDgvroce-M&dib_tag=se&keywords=cien+a%C3%B1os+de+soledad+gabriel+garcia+marquez+english&qid=1738468444&sprefix=cien+a%C3%B1os+de+soledad+gabriel+garcia+marquez+%2Caps%2C220&sr=8-1
 ---
 
-ESPAÑOL DESCRIPCION
+**ESPAÑOL DESCRIPCION**
 
 Ahora una serie de Netflix
 
 En ocasión del 50 aniversario de la publicación de Cien años de soledad, llega una edición con ilustraciones inéditas de la artista chilena Luisa Rivera y con una tipografía creada por el hijo del autor, Gonzalo García Barcha.
 
-Una edición conmemorativa de una novela clave en la historia de la literatura, una obra que todos deberíamos tener en nuestras estanterías.
+**Una edición conmemorativa de una novela clave en la historia de la literatura, una obra que todos deberíamos tener en nuestras estanterías.**
 
 “Muchos años después, frente al pelotón de fusilamiento, el coronel Aureliano Buendía había de recordar aquella tarde remota en que su padre lo llevó a conocer el hielo”.
 

@@ -19,7 +19,8 @@ const { book } = Astro.props;
 const { data, slug } = book;
 const { title, author, img, readtime, description, buy } = data;
 
-const Content = await book.render();
+// Error corregido
+const { Content } = await book.render();
 
 // si tenemos que renderizar el contenido de la página, para que sea estatica y no se cargue cada vez
 export const prerender = true;
@@ -40,7 +41,7 @@ export const prerender = true;
 
       <!-- Enlaces de compra -->
       <!-- Unico componente dinamico y no es estatica -->
-      <BookScore server:defer>
+      <BookScore server:defer id={slug}>
         <span slot="fallback" class="text-xs opacity-70">
           Cargando puntuación...
         </span>
@@ -69,7 +70,7 @@ export const prerender = true;
         {title}
       </h1>
       <div class="prose prose-invert">
-        {book.body}
+        <Content />
       </div>
     </main>
   </div>

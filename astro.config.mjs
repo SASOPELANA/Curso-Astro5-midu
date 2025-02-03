@@ -9,11 +9,7 @@ import vercel from "@astrojs/vercel";
 export default defineConfig({
   output: "server",
   vite: { plugins: [tailwindcss()] },
-  adapter: vercel({
-    webAnalytics: {
-      enabled: true,
-    },
-  }),
+  adapter: vercel({}),
   //integrations: [mdx()],
   env: {
     schema: {
