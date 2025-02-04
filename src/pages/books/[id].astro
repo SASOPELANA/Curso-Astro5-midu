@@ -28,14 +28,14 @@ export const prerender = true;
 ---
 
 <Layout title={`${title} - Libros`}>
-  <div class="flex gap-12">
-    <aside class="flex flex-col gap-4 items-center">
+  <div class="flex gap-12 max-md:flex-col max-md:gap-6">
+    <aside class="flex flex-col gap-4 items-center max-md:order-2">
       <a href="/" class="hover:underline opacity-70 hover:font-bold">
-        ⏪ Volver al inicio</a
-      >
+        ⏪ Volver al inicio
+      </a>
       <img
         transition:name={`img-${slug}`}
-        class="rounded w-72 h-auto"
+        class="rounded w-72 h-auto max-md:w-48"
         src={`${img}`}
         alt={title}
       />
@@ -51,11 +51,14 @@ export const prerender = true;
       {SHOW_BUY_BUTTON && <BuyButton server:defer buy={buy} />}
     </aside>
 
-    <main class="max-w-3xl">
-      <h1 transition:name={`title-${slug}`} class="text-4xl font-bold mb-4">
+    <main class="max-w-3xl max-md:max-w-full max-md:order-1">
+      <h1
+        transition:name={`title-${slug}`}
+        class="text-4xl font-bold mb-4 max-md:text-2xl"
+      >
         {title}
       </h1>
-      <div class="prose prose-invert">
+      <div class="prose prose-invert max-md:prose-sm">
         <Content />
       </div>
     </main>

@@ -10,27 +10,32 @@ export const prerender = true;
 
 <Layout title="Dev Books, libros recomendados.">
   <main>
-    <h1 class="text-center text-7xl font-extrabold mb-24">
+    <h1
+      class="text-center text-7xl font-extrabold mb-24 max-md:text-4xl max-md:mb-12 mas-xl:text-5xl max-xl:mb-16"
+    >
       Recomendados 📖 <span class="block"> Books</span>
     </h1>
 
     <section aria-label="Libros recomendados">
       <div class="px-4 mx-auto max-w-screen-xl">
-        <div class="grid gap-6 md:grid-cols-2">
+        <div class="grid gap-6 md:grid-cols-2 max-md:grid-cols-1 max-xl:gap-4">
           {
             books.map((book) => {
               const { slug, data } = book;
               const { title, author, img, readtime, description, buy } = data;
 
               return (
-                <article class="flex">
+                <article
+                  class="flex max-md:flex-col max-md:items-center max-md:text-pretty max-md:mb-12 
+            max-xl:flex-col max-xl:items-center max-xl:text-center "
+                >
                   <a
                     href={`/books/${slug}`}
-                    class="mb-2 xl:mb-0 transition hover:scale-110"
+                    class="mb-2 xl:mb-0 transition hover:scale-110 max-md:hover:scale-100"
                   >
                     <img
                       transition:name={`img-${slug}`}
-                      class="mr-5 w-48 rounded"
+                      class="mr-5 w-48 rounded max-md:mr-0  max-md:mb-4 max-xl:mr-0  max-xl:mb-4 "
                       src={img}
                       alt={title}
                     />
@@ -38,12 +43,15 @@ export const prerender = true;
                   <div class="flex flex-col justify-center">
                     <h2
                       transition:name={`title-${slug}`}
-                      class="mb-2 text-2xl font-bold leading-tight text-white"
+                      class="mb-2 text-2xl font-bold leading-tight text-white max-md:max-w-full max-xl:text-xl "
                     >
                       {title}
                     </h2>
 
-                    <p class="mb-4 text-gray-300 max-w-sm"> {description} </p>
+                    <p class="mb-4 text-gray-300 max-w-sm max-md:max-w-full max-xl:max-w-full ">
+                      {" "}
+                      {description}{" "}
+                    </p>
                     <span class="text-xs">
                       {" "}
                       🕐 Lectura en {readtime} minutos
