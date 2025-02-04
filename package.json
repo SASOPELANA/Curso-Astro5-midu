@@ -1,6 +1,6 @@
 {
   "name": "dev-books",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
     "@astrojs/mdx": "^4.0.8",
     "@astrojs/node": "^9.0.2",
