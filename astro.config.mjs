@@ -6,10 +6,12 @@ import tailwindcss from "@tailwindcss/vite";
 // Importa el adaptador de Node, que soporta el preview.
 import node from "@astrojs/node";
 
+import vercel from "@astrojs/vercel";
+
 // En este ejemplo, se elimina la asignación del adaptador de Vercel.
 export default defineConfig({
   output: "server",
-  adapter: node({ mode: "standalone" }),
+  adapter: vercel(),
   vite: { plugins: [tailwindcss()] },
   // integrations: [mdx()],
   env: {
