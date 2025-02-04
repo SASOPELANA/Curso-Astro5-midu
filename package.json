@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "dependencies": {
     "@astrojs/mdx": "^4.0.8",
+    "@astrojs/node": "^9.0.2",
     "@astrojs/vercel": "^8.0.5",
     "@tailwindcss/vite": "^4.0.3",
     "astro": "^5.2.3",

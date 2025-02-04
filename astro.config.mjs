@@ -1,16 +1,17 @@
 // @ts-check
 import { defineConfig, envField } from "astro/config";
-//import mdx from '@astrojs/mdx';
+// import mdx from '@astrojs/mdx';
 import tailwindcss from "@tailwindcss/vite";
 
-import vercel from "@astrojs/vercel";
+// Importa el adaptador de Node, que soporta el preview.
+import node from "@astrojs/node";
 
-// https://astro.build/config
+// En este ejemplo, se elimina la asignación del adaptador de Vercel.
 export default defineConfig({
   output: "server",
+  adapter: node({ mode: "standalone" }),
   vite: { plugins: [tailwindcss()] },
-  adapter: vercel({}),
-  //integrations: [mdx()],
+  // integrations: [mdx()],
   env: {
     schema: {
       SHOW_BUY_BUTTON: envField.boolean({

@@ -3,7 +3,6 @@ import Layout from "../layouts/Layout.astro";
 import { getCollection } from "astro:content";
 
 const books = await getCollection("books");
-// console.log(books);
 
 // si tenemos que renderizar el contenido de la página, para que sea estatica y no se cargue cada vez
 export const prerender = true;
