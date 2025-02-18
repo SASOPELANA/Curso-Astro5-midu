@@ -3,10 +3,11 @@ import AmazonLogo from "./AmazonLogo.astro";
 
 const SPAIN = "ES";
 
-const country = Astro.request.headers.get("X-Vercel-IP-Country") ?? "ES";
+// Forzar siempre España
+const country = SPAIN;
 
-const storeCountry = country === SPAIN ? "spain" : "usa";
-const countryName = country === SPAIN ? "España" : "Estados Unidos";
+const storeCountry = "spain";
+const countryName = "Español";
 
 const { buy } = Astro.props;
 const url = buy[storeCountry];
